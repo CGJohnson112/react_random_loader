@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/CGJohnson112/react_random_loader/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/CGJohnson112/react_random_loader/static/js/main.63dd0322.chunk.js",
-    "main.js.map": "/CGJohnson112/react_random_loader/static/js/main.63dd0322.chunk.js.map",
-    "runtime-main.js": "/CGJohnson112/react_random_loader/static/js/runtime-main.dfb9ce3b.js",
-    "runtime-main.js.map": "/CGJohnson112/react_random_loader/static/js/runtime-main.dfb9ce3b.js.map",
-    "static/js/2.34da3a88.chunk.js": "/CGJohnson112/react_random_loader/static/js/2.34da3a88.chunk.js",
-    "static/js/2.34da3a88.chunk.js.map": "/CGJohnson112/react_random_loader/static/js/2.34da3a88.chunk.js.map",
-    "index.html": "/CGJohnson112/react_random_loader/index.html",
-    "precache-manifest.c7dbfd778ddfe63e803c5cabe6aa7747.js": "/CGJohnson112/react_random_loader/precache-manifest.c7dbfd778ddfe63e803c5cabe6aa7747.js",
-    "service-worker.js": "/CGJohnson112/react_random_loader/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/CGJohnson112/react_random_loader/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.34da3a88.chunk.js.LICENSE.txt": "/CGJohnson112/react_random_loader/static/js/2.34da3a88.chunk.js.LICENSE.txt"
+    "main.css": "/react_random_loader/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react_random_loader/static/js/main.308853f6.chunk.js",
+    "main.js.map": "/react_random_loader/static/js/main.308853f6.chunk.js.map",
+    "runtime-main.js": "/react_random_loader/static/js/runtime-main.52842af8.js",
+    "runtime-main.js.map": "/react_random_loader/static/js/runtime-main.52842af8.js.map",
+    "static/js/2.34da3a88.chunk.js": "/react_random_loader/static/js/2.34da3a88.chunk.js",
+    "static/js/2.34da3a88.chunk.js.map": "/react_random_loader/static/js/2.34da3a88.chunk.js.map",
+    "index.html": "/react_random_loader/index.html",
+    "precache-manifest.97073b01ac15030111ed3ee9877b9ad4.js": "/react_random_loader/precache-manifest.97073b01ac15030111ed3ee9877b9ad4.js",
+    "service-worker.js": "/react_random_loader/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react_random_loader/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.34da3a88.chunk.js.LICENSE.txt": "/react_random_loader/static/js/2.34da3a88.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dfb9ce3b.js",
+    "static/js/runtime-main.52842af8.js",
     "static/js/2.34da3a88.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.63dd0322.chunk.js"
+    "static/js/main.308853f6.chunk.js"
   ]
 }
